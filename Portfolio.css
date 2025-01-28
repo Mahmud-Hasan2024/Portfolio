@@ -1,0 +1,93 @@
+.nav-link:hover {
+  color: yellow;
+}
+
+.info {
+  margin-right: 30px;
+}
+
+.fa-brands {
+  font-size: 30px;
+  margin-right: 40px;
+  margin-top: 10px;
+
+  text-decoration: none;
+  color: black;
+}
+
+.main {
+  background-color: blanchedalmond;
+}
+
+.im_1 {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20%;
+  height: auto;
+}
+
+.shead {
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 60px;
+}
+
+.service-container {
+  background-color: burlywood;
+}
+
+.row_1 {
+  display: flex;
+  justify-content: space-around;
+  text-align: justify;
+}
+
+.service-container {
+  padding-bottom: 120px;
+}
+
+.contact {
+  text-align: center;
+  padding-top: 100px;
+  background-color: #1a1a1a;
+}
+
+.chead {
+  color: aliceblue;
+}
+
+.label {
+  color: white;
+}
+
+.form-control {
+  text-align: center;
+}
+
+.btn {
+  border-radius: 25px;
+  color: white;
+  padding: 10px;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: white;
+  background-color: #1a1a1a;
+}
+
+.foot1 {
+  margin-top: 80px;
+}
+
+.portfolio_1 {
+  background-color: #1a1a1a;
+}
+
+.phead {
+  color:white;
+}
