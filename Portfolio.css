@@ -28,6 +28,28 @@
   height: auto;
 }
 
+@media (max-width: 992px) {
+  .im_1 {
+    width: 30%;
+  }
+}
+
+@media (max-width: 768px) {
+  .im_1 {
+    width: 40%;
+  }
+}
+
+@media (max-width: 576px) {
+  .im_1 {
+    width: 50%;
+    position: static;
+    transform: none;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
 .shead {
   text-align: center;
   padding-top: 100px;
@@ -89,5 +111,5 @@
 }
 
 .phead {
-  color:white;
+  color: white;
 }
